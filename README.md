@@ -1,2 +1,2 @@
 # WDOInternship
-New libraries and methodologies I learnt during one month internship at World Development Organization.
+New libraries and methodologies I learnt during in internship at World Development Organization.
